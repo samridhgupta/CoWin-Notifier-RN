@@ -1,0 +1,32 @@
+const colors = {
+    transparent: 'transparent',
+    black_solid: '#000000',
+    white_solid: '#FFFFFF',
+    curious_blue: '#2590BF',
+    seashell_solid: '#F1F1F1',
+    silver: '#CCCCCC',
+    orange: '#FA6A1E',
+    chambray: '#3B5998',
+    punch: '#DD4B39',
+    twitterColor: '#1DA1F2',
+    mine_shaft: '#262626',
+    monza: '#B00020',
+    vividBlue: '#262ffa',
+    dodgerBlue: '#3ebfff',
+    darkGrey: '#2d3234',
+    battleshipGrey: '#686c80',
+    paleGrey: '#dddee8',
+    white: '#f6f6f6',
+    coral: '#ef5350',
+    macaroniAndCheese: '#f1be43',
+    greenishTeal: '#36d174',
+    lightPurple: '#d1c4e9',
+    translucentBlue: '#2590BF55',
+    translucentRed: '#f00e0e55',
+    outerSpace: '#2D383A',
+    toryBlue: '#0d47a1',
+    darkGreen: '#1b5e20',
+};
+
+/* Color Name Reference (http://chir.ag/projects/name-that-color/0d47a1) */
+export default colors;
